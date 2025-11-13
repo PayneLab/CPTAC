@@ -2,7 +2,7 @@
 We are having difficulty with the API on Zenodo and are working to find a better host for our data. Please be patient while we fix these issues.
 
 # Easy access to CPTAC data
-This software provides easy access to cancer data from the National Cancer Institute's CPTAC program, which characterizes and studies the proteogenomic landscape of tumors. We implement the software as a Python package called `cptac`, but you can seamlessly use it in an R environment with the help of the `reticulate` package (demonstrated in [Tutorial 6](https://paynelab.github.io/cptac/tutorial06_cptac_in_R.html)). Our package is installed in one step with `pip`:
+This software provides easy access to cancer data from the National Cancer Institute's CPTAC program, which characterizes and studies the proteogenomic landscape of tumors. We implement the software as a Python package called `cptac`, but you can seamlessly use it in an R environment with the help of the `reticulate` package (demonstrated in [Tutorial 7](https://paynelab.github.io/cptac/tutorial07_cptac_in_R.html)). Our package is installed in one step with `pip`:
 ```
 pip install cptac
 ```
@@ -38,7 +38,8 @@ You can access the tutorials and use cases as static webpages using the links be
 - [Tutorial 3: Joining dataframes with cptac](https://paynelab.github.io/cptac/tutorial03_joining_dataframes.html)
 - [Tutorial 4: Understanding multi-indexes](https://paynelab.github.io/cptac/tutorial04_multiindex.html)
 - [Tutorial 5: How to keep up to date with new package and data releases](https://paynelab.github.io/cptac/tutorial05_updates.html)
-- [Tutorial 6: Easy integration with R](https://paynelab.github.io/cptac/tutorial06_cptac_in_R.html)
+- [Tutorial 6: CPTAC basics review](https://paynelab.github.io/cptac/tutorial06_review.html)
+- [Tutorial 7: Easy integration with R](https://paynelab.github.io/cptac/tutorial07_cptac_in_R.html)
 
 ### Use cases
 - [Use Case 1: Comparing transcriptomics and proteomics](https://paynelab.github.io/cptac/usecase01_omics.html)
